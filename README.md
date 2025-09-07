@@ -543,5 +543,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 **Made with ❤️ for the agricultural community**
 
-For more information, visit our [documentation site](https://docs.agricultural-ai.org) or contact us at [info@agricultural-ai.org](mailto:info@agricultural-ai.org).#   F A R M A I  
+For more information, visit our [documentation site](https://docs.agricultural-ai.org) or contact us at [info@agricultural-ai.org](mailto:info@agricultural-ai.org).#   F A R M A I 
+ 
  
